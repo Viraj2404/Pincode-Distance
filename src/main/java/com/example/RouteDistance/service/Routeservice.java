@@ -26,7 +26,7 @@ public class Routeservice {
 
 	    private final String googleMapsApiUrl = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=%s&destinations=%s&key=%s";
 
-		private final String YOUR_API_KEY = "AIzaSyCkGXcFsEEps2tNM97gJQYqGzeBVuW-Az4";
+		private final String YOUR_API_KEY = "AIzaSyCkGXcFsEEps2tNM97gJQYqGzeBVu-Az4";
 
 	    public Routeinfo getRouteInfo(String fromPincode, String toPincode) {
 	    	
